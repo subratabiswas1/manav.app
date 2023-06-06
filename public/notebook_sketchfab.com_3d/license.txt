@@ -1,0 +1,11 @@
+Model Information:
+* title:	Notebook Sketchfab.com 3D
+* source:	https://sketchfab.com/3d-models/notebook-sketchfabcom-3d-0a9d98db5730461084355a04f4a6a32a
+* author:	AMADEU 3D (https://sketchfab.com/lanasouza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Notebook Sketchfab.com 3D" (https://sketchfab.com/3d-models/notebook-sketchfabcom-3d-0a9d98db5730461084355a04f4a6a32a) by AMADEU 3D (https://sketchfab.com/lanasouza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
